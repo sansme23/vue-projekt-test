@@ -14,7 +14,7 @@ JavaScript (ES6+)
 Node.js & npm
 Installation og Kørsel
 - Klon repository
-git clone https://github.com/Sansme23/Vue-test.git cd vue-test
+git clone https://github.com/sansme23/vue-projekt-test.git cd vue-test
 
 - Installer afhængigheder
 npm install
